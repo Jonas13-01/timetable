@@ -1,0 +1,119 @@
+/* Grundlegende Stile für den Stundenplan */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7f9;
+    margin: 0;
+    padding: 0;
+    color: #343a40;
+}
+
+h1 {
+    text-align: center;
+    color: #343a40;
+    margin-top: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    table-layout: fixed;
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #dee2e6;
+    font-size: 1.1rem;
+    width: 16.6%;
+}
+
+th {
+    background-color: #e9ecef;
+    color: #495057;
+    font-weight: bold;
+}
+
+td {
+    background-color: #fff;
+}
+
+/* Hintergrund für Pausen */
+.break {
+    background-color: #b0bec5;
+}
+
+/* Flexbox-Layout für halbe Zellen */
+.half-td {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.half-left, .half-right {
+    flex: 1;
+    padding: 15px;
+    text-align: center;
+    min-width: 0;
+    word-wrap: break-word;
+    flex-shrink: 1;
+}
+
+/* Stile für spezielle Fächer */
+.bgc {
+    background-color: #f5f5dc;
+}
+
+.free-time{
+    background-color:white;
+}
+.latin {
+    background-color: #8e1c28;
+}
+
+.chemistry {
+    background-color: #c8e6c9;
+}
+
+.english {
+    background-color: #ffff00;
+}
+
+.german {
+    background-color: #ffcccc;
+}
+
+.math {
+    background-color: #90caf9;
+}
+
+.music {
+    background-color: #d1c4e9;
+}
+
+.sports {
+    background-color: #fff9c4;
+}
+
+.religion {
+    background-color: #f2d2a9;
+}
+
+.nawi {
+    background-color: #a5d6a7;
+}
+
+.economics {
+    background-color: #f0f4c3;
+}
+
+.study {
+    background-color: #e2ffcc;
+}
+
+.art {
+    background-color: #ffccff;
+}
