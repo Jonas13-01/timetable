@@ -1,6 +1,9 @@
 {
   "name": "TimeTable",
   "short_name": "TimeTable",
+  "description": "A web app to manage and view your timetable efficiently.",
+  "start_url": "/timetable",
+  "scope": "/",
   "icons": [
     {
       "src": "https://the13joker1.github.io/timetable/favicon/web-app-manifest-192x192.png",
