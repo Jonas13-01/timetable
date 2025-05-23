@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://jonas13-01.github.io/timetable](https://jonas13-01.github.io/timetable)
+[https://its-tujo.github.io/timetable](https://its-tujo.github.io/timetable)
 
 <h2>Project Screenshots:</h2>
 
