@@ -1,6 +1,6 @@
 <h1 align="center" id="title">TimeTable</h1>
 
-<p align="center"><img src="https://socialify.git.ci/the13joker1/timetable/image?description=1&amp;descriptionEditable=A%20static%20timetable%20for%20students&amp;forks=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/its-tujo/timetable/image?description=1&amp;descriptionEditable=A%20static%20timetable%20for%20students&amp;forks=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
 <h2>🚀 Demo</h2>
 
@@ -8,7 +8,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://the13joker1.github.io/timetable/screenshots/1.jpeg" alt="project-screenshot" width="400" height="400/">
+<img src="https://its-tujo.github.io/timetable/screenshots/1.jpeg" alt="project-screenshot" width="400" height="400/">
 
   
   
